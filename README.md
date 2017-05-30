@@ -1,4 +1,4 @@
-# A dynamic site built with node js where the api retrieves student profile information from a RESTFUL web service(json file) provided by a website and display the profile information on searching for various students.
+# A dynamic site built with node js where the api retrieves student profile information from a RESTFUL web service(json file) provided by a website and displays the profile information on searching for various students.
 
 start the server using node app.js in the terminal and run http://localhost:3000 in the browser to get the site running .
 
